@@ -1,30 +1,7 @@
-## Olá, meu nome é Arthur!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Asnsn&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### ⚙️ GitHub Analytics
+### Olá, meu nome é Arthur!
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Asnsn&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnsn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Asnsn&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Asnsn&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+sou desenvolvedor FullStack</p>
